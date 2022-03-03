@@ -1,7 +1,3 @@
-MINOR PROJECT
-BY:
-ROHAN NYATI
-
 Abstract:
 The goal of this project is to create clusters of students on the basis of their current academic standings. So the motivation here is to access the college in analyzing such students and assisting them in their coming semesters. As a ML enthusiast, we wanted to explore the core of K Means clustering algorithms using a programming approach to gain the pure insights and working of this algorithm.
 
